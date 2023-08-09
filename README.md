@@ -3,7 +3,7 @@
 - My name is Ben!
 - I am currently a marketing major who has an interest in programming and computer science and looking to change careers! 
 
-[![Ben A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baguirre03)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baguirre03)]
 <!--
 **Baguirre03/Baguirre03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
