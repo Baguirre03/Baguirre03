@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! I'm Ben Aguirre👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ben-aguirre/">
-       <img src="https://icons8.com/icon/8808/linkedin" alt="LinkedIn"/>
+       <img src="./linked.png" alt="LinkedIn"/>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 Welcome to my GitHub profile! Im currently a marketing student at [Loyola University Chicago](https://www.luc.edu/). Here I am studying **marketing** with a minor in **computer science**.
-About halfway through my collegiate journey and some marketing experience, I found that coding was a better fit for me. Since then, I have been learning Web Development with  [The Odin Project](https://www.theodinproject.com/)
+About halfway through my collegiate journey and some marketing experience, I found that coding was a better fit for me. Since then, I have been learning Web Development with [The Odin Project](https://www.theodinproject.com/)
 
 ### 🚀 Expertise
 
@@ -19,7 +19,7 @@ About halfway through my collegiate journey and some marketing experience, I fou
 ### 💡 Interests
 
 - Building interesting projects!
-- Open-source projects (Specificly The Odin Project) -- I am an active community member in their discord and contribute to their curriculum as much as I Can! 
+- Open-source projects (Specificly The Odin Project) -- I am an active community member in their discord and contribute to their curriculum as much as I Can!
 
 ### 📚 Hobbies
 
@@ -27,7 +27,7 @@ Apart from coding, I enjoy:
 
 - Doing Wordle!! (Gotta get it done everyday)
 - Listening to all kinds of music
-- Hanging out with friends! 
+- Hanging out with friends!
 
 ### 🌱 Future Goals
 
@@ -39,7 +39,6 @@ My ultimate goal is to become a web-developer. I would love to stay in the tech-
 
 <p align="center">
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baguirre03&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
-
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
