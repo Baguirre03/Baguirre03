@@ -2,8 +2,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ben-aguirre/">
        <img src="./linked.png" alt="LinkedIn"/>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 Welcome to my GitHub profile! Im currently a marketing student at [Loyola University Chicago](https://www.luc.edu/). Here I am studying **marketing** with a minor in **computer science**.
