@@ -9,9 +9,9 @@ About halfway through my collegiate journey and some marketing experience, I fou
 
 ### 🚀 Expertise
 
-- Programming Languages: JavaScript, HTML, CSS
-- Tools: React, Git, Webpack, Babel, Vite, Fima, Canva, Jest
-- Other: SEO, Data analysis, QA Testing, Algorithms, Web API integration
+- Programming Languages: JavaScript, HTML, CSS, Python, Java, SQL
+- Tools: React, Node.js, Git, Webpack, Babel, Jest, Vite, MongoDB, Express, Passport.js, Tailwind CSS, JWT,
+- Other: SEO, Data analysis, QA testing, Algorithms, Agile methodology, Web API Integration, Unit Testing, React testing
 - Soft Skills: Excellent communication, collaboration, and public speaking
 
 ### 💡 Interests
